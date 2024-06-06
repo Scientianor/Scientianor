@@ -1,4 +1,4 @@
-![alt text](https://github.com/Scientianor/Scientianor/blob/main/img/cover_logotype.png)
+![alt text](https://github.com/Scientianor/Scientianor/blob/main/img/cover.png)
 ### ⚙️ Hard Skills
 - **Programming Language:** Python (pandas, request, httpx, aiogram 3.x, asyncio)
 - **Databases:** PostgreSQL, SQLite, MySQL, Redis
